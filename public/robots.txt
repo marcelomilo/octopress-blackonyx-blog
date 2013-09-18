@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: blog.blackonyx.com.br/sitemap.xml 
